@@ -6,4 +6,8 @@
    * Index
      * [Lista 1](https://github.com/beatrizdaddea/EstruturaDeDados/tree/main/Exercicio1)
            <ul> <li> Conceitos Iniciais de JAVA </li> </ul>
+           
+     * [Lista 2](https://github.com/beatrizdaddea/EstruturaDeDados/tree/main/Lista2)
+           <ul> <li> Conceitos de TAD e Modularização </li> </ul>
 <!--te-->
+

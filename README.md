@@ -1,4 +1,4 @@
-# EstruturaDeDados
+# Estrutura De Dados
 <!--ts-->
    * Sobre
     <p>Lista de Exercicios da matéria de Estrutura de Dados, realizado em linguagem JAVA</p>

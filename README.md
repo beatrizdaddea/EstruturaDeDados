@@ -9,5 +9,7 @@
            
      * [Lista 2](https://github.com/beatrizdaddea/EstruturaDeDados/tree/main/Lista2)
            <ul> <li> Conceitos de TAD e Modularização </li> </ul>
+     * [Lista 3](https://github.com/beatrizdaddea/EstruturaDeDados/tree/main/Lista%203)
+     <ul> <li> Conceitos de Lista, Filas e Pilhas </li> </ul>
 <!--te-->
 
